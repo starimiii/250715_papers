@@ -1,0 +1,7 @@
+Informer(AAAI 2020): https://github.com/zhouhaoyi/Informer2020
+
+TimesNet(ICLR 2023): https://github.com/thuml/TimesNet
+
+iTransformer(ICLR 2024): https://github.com/thuml/iTransformer 
+
+TimeXer(NeurIPS 2024):https://github.com/thuml/TimeXer 
